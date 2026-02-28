@@ -120,8 +120,5 @@ MIT
 - Email: surajrawal228@gmail.com
 ```
 
----
-
-## 🔥 One-Liner Tagline (for social media/portfolio)
-```
+--
 Full-stack hostel management system with role-based access, live analytics, and session-based auth. React + Node.js + MySQL.
