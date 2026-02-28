@@ -1,7 +1,7 @@
 # 🏨 StaySense – Smart Hostel Management System
 
 A full-stack web application for managing hostel operations with separate Admin and Resident portals. Built with modern web technologies and focusing on security, scalability, and user experience.
-
+Live link-staysense-smart-hostel.vercel.app
 ## ✨ Features
 
 ### Admin Portal
